@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+env/
+Camila/
+Vivi/
+*.mp4
+*.gif
+face_encodings
