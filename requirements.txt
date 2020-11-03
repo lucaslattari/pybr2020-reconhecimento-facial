@@ -6,6 +6,7 @@ bleach==3.2.1
 certifi==2020.6.20
 cffi==1.14.3
 click==7.1.2
+cmake==3.18.2.post1
 colorama==0.4.4
 cycler==0.10.0
 decorator==4.4.2
@@ -61,7 +62,6 @@ six==1.15.0
 terminado==0.9.1
 testpath==0.4.4
 tornado==6.1
-tqdm==4.51.0
 traitlets==5.0.5
 wcwidth==0.2.5
 webencodings==0.5.1
